@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experimental", "Experimental\Experimental.csproj", "{59D2B3AB-E3BF-447E-AC0D-A1798362DF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendAssembly", "FriendAssembly\FriendAssembly.csproj", "{4C12B4B2-2E6A-4E86-AA1B-0752E84C854B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59D2B3AB-E3BF-447E-AC0D-A1798362DF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D2B3AB-E3BF-447E-AC0D-A1798362DF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D2B3AB-E3BF-447E-AC0D-A1798362DF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D2B3AB-E3BF-447E-AC0D-A1798362DF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C12B4B2-2E6A-4E86-AA1B-0752E84C854B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C12B4B2-2E6A-4E86-AA1B-0752E84C854B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C12B4B2-2E6A-4E86-AA1B-0752E84C854B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C12B4B2-2E6A-4E86-AA1B-0752E84C854B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
